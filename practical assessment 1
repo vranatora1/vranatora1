@@ -1,0 +1,31 @@
+def function(x,y): # The two vriables in our function
+    my list= []
+    numsops= len(y)
+    
+    
+ for i in range(x):  # iterating through the values as it was zero by default
+     stop = i+1  # increment sop value by 1
+     my list.append(stop) # stop is been added to your list
+     for j in range(numstops)
+     boarding=y[j]
+     mylist.append(boarding)
+     
+print(1(0:^10d} {1:10^).format(stop,boardin)
+     return result.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
